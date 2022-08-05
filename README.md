@@ -12,7 +12,7 @@
 ![Project-10 Preview](./Project-10.png)
 
 I deployed the project on **Netlify**:
-- You can preview the project here, [**Interior Design landing page**]()
+- You can preview the project here, [**Interior Design landing page**](https://interior-design-landing-page-10.netlify.app/)
 
 
 
