@@ -6,6 +6,7 @@
 - Tried different ways to manipulate the size and positioning of elements.
 - It took nearly five hours to complete this project.
 - One web page took most of the time to size the SVG images.
+- Website is mobile responsive.
 
 - Below image shows the preview of the project:
 
